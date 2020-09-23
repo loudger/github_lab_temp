@@ -1,0 +1,10 @@
+diff --git a/file0.txt b/file0.txt
+index 6357d03..c12cfd5 100644
+--- a/file0.txt
++++ b/file0.txt
+@@ -1 +1,2 @@
+-Это тестовый файл, которые ничего не делает
+\ No newline at end of file
++Это тестовый файл, которые ничего не делает
++Добавляем ещё одно состояние, это уже второй коммит
+\ No newline at end of file
